@@ -1,15 +1,17 @@
 {
-  "name": "sky_react",
+  "name": "sky-react",
   "version": "1.0.0",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
   "author": "Akash Odedara",
   "license": "ISC",
   "description": "",
   "devDependencies": {
     "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
   }
 }
